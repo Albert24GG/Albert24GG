@@ -22,7 +22,7 @@ hobbies: ["Linux", "Ping-Pong", "Computer Games", "Gym"]
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg alt="c" width="40" height="40"/> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" alt="c" width="40" height="40"/> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" alt="cplusplus" width="40" height="40"/> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/opengl/opengl-original.svg" alt="vim" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
